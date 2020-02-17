@@ -1,4 +1,4 @@
-# Bayly Consulting (ANGULAR 5 SEED)
+# Angular ShowCase Application
 ### This is the seed for bayly consulting projects.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
